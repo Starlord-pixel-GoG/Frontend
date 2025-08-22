@@ -1,6 +1,6 @@
 // Configuración de la API 
 // const API_BASE_URL = 'http://localhost:3000/api'; // Para desarrollo local 
-const API_BASE_URL = 'https://mi-aplicacion-vulnerable.onrender.com'; // Para producción 
+const API_BASE_URL = 'https://mi-aplicacion-vulnerable.onrender.com/api'; // Para producción 
  
 // Variables globales 
 let currentUser = null; 
@@ -297,5 +297,6 @@ async function deleteTask(taskId) {
 //• document.getElementById: Encuentra elementos HTML por su ID
 //• innerHTML: Cambia el contenido HTML de un elemento
 //• textContent: Cambia solo el texto de un elemento
+
 
 
