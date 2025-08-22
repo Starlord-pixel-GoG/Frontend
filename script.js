@@ -298,3 +298,4 @@ async function deleteTask(taskId) {
 //• innerHTML: Cambia el contenido HTML de un elemento
 //• textContent: Cambia solo el texto de un elemento
 
+
